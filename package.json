@@ -1,0 +1,23 @@
+{
+  "name": "api_visual_thinking",
+  "version": "1.0.0",
+  "description": "Proyecto: Cursos de Visual Thinking API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorGbravo/API_Visual_Thinking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorGbravo/API_Visual_Thinking/issues"
+  },
+  "homepage": "https://github.com/HectorGbravo/API_Visual_Thinking#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
